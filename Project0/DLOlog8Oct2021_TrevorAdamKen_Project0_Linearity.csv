@@ -1,0 +1,45 @@
+Object,Seq. Num.,Filter,Exp (s),Flag,Temp (C),Counts,Comments
+Bias,43-44,blue,0,0,-10.6,1020,None
+Bias,45-64,blue,0,1,-9.8,1015,None
+Flat,65,blue,0.8,0,-10.2,1750,None
+Flat,66,blue,1.6,0,-10.2,2450,None
+Flat,67,blue,2.5,1,-9.8,3250,None
+Flat,68-69,blue,2.5,1,-9.8,3450,None
+Dark,70-71,blue,2.5,1,-9.8,1015,None
+Flat,72-73,blue,5,1,-9.8,7100,None
+Dark,74-75,blue,5,1,-9.8,1020,None
+Flat,76-77,blue,8,1,-9.8,16200,None
+Dark,78-79,blue,8,1,-9.8,1015,None
+Flat,80-81,blue,12,1,-9.8,13900,None
+Dark,82-83,blue,12,1,-9.8,1015,None
+Flat,84-85,blue,18,1,-9.8,21300,None
+Dark,86-87,blue,18,1,-9.8,1020,None
+Flat,88-89,blue,25,1,-9.8,25000,None
+Dark,90-91,blue,25,1,-9.8,1025,None
+Flat,92-93,blue,40,1,-9.8,45000,None
+Dark,94-95,blue,40,1,-9.8,1025,None
+Flat,96-97,blue,32.5,1,-9.8,41000,None
+Dark,98-99,blue,32.5,1,-9.8,1030,None
+Flat,100-101,blue,50,1,-9.8,45500,None
+Dark,102-103,blue,50,1,-9.8,1030,None
+Flat,104,Blue,70,0,-9.8,0,"Oversaturated, too much time"
+bias,106 (105 got skipped),blue,0,0,-9.8,0,"Clear charge from 104 oversaturated, 105 skipped"
+Flat,107,blue,62,0,-9.8,0,"Oversaturated, dropped 8s from 104 still too much"
+bias,109,blue,0,0,-9.8,0,"Bias from oversaturated 107, 108 skipped"
+Flat,110-111,blue,25,1,-9.8,32500,"Scale changing a lot, got 8000 more counts with same time"
+Dark,112-113,blue,25,1,-9.8,1025,None
+Flat,114-115,blue,55,0,-9.8,0,"middle saturated, edges not as much. 2nd photo oversaturated"
+bias,117,blue,0,0,-9.8,0,Skipped dark at 116
+Flat,118,blue,52,0,-9.8,0,Oversaturated
+bias,120,blue,0,0,-9.8,0,Skipped flat at 119
+Flat,121,blue,48,0,-9.8,0,Oversaturated
+bias,123,blue,0,0,-9.8,0,"Bias, skip flat at 122"
+Flat,124-125,blue,42,1,-9.8,59000,None
+Dark,126-127,blue,42,1,-9.8,1040,None
+Flat,129,blue,43,1,-9.8,57000,This ~13k higher than next
+Flat,130,blue,43,1,-9.8,44000,This ~13k lower than next
+Dark,131-132,blue,43,1,-9.8,1030,None
+Flat,133-134,blue,45,1,-9.8,48000,None
+Dark,135-136,blue,45,1,-9.8,1030,None
+Flat,137-138,blue,47.5,1,-9.8,47000,None
+Dark,139-140,blue,47.5,1,-9.8,1030,None

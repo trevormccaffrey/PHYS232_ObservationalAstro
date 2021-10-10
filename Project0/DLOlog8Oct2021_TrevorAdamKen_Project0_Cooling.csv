@@ -1,0 +1,22 @@
+Object,Seq. Num.,Filter,Exp (s),Flag,Temp (C),Counts,Comments
+bias,1-2,,0,0,19.5,0,None
+bias,3-4,blue,0,1,19.5,1100,None
+dark,5-6,blue,1,1,19.5,1100,None
+dark,7-8,blue,5,1,19.5,1150,None
+dark,9-10,blue,20,1,19.5,1400,None
+dark,11-12,blue,60,1,19.5,1700,None
+bias,13-14,blue,0,1,8.9,1050,None
+dark,15-16,blue,1,1,8.9,1050,None
+dark,17-18,blue,5,1,8.9,1050,None
+dark,19-20,blue,20,1,8.9,1080,None
+dark,21-22,blue,60,1,8.9,1175,None
+bias,23-24,blue,0,1,-1.1,1025,None
+dark,25-26,blue,1,1,-1.1,1025,None
+dark,27-28,blue,5,1,-1.1,1025,None
+dark,29-30,blue,20,1,-0.2,1040,None
+dark,31-32,blue,60,1,-0.2,1060,None
+bias,33-34,blue,0,1,-10.6,1015,None
+dark,35-36,blue,1,1,-10.6,1015,None
+dark,37-38,blue,5,1,-10.6,1020,None
+dark,39-40,blue,20,1,-9.8,1025,None
+dark,41-42,blue,60,1,-9.8,1025,None
